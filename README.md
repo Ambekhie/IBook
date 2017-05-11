@@ -1,5 +1,5 @@
 # IBook
-Online Book Store - JAVA - Application.
+Online Multi-threaded Book Store - JAVA - Application.
 
 ## Order Processing System
 
@@ -19,7 +19,7 @@ The server side establishes a connection with MYSQL database using JDBC
 ## Why using Three-Tier Architecture ?
 
 1. Keeps critical data away from users (kept at server side).
-2. Application supports multiple users
+2. Application supports multiple users (Multi-threaded)
 3. Application is scalable, maintainable and extensible. 
 
 
